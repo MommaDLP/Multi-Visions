@@ -61,6 +61,10 @@
   .btn-open {
     position: absolute;
     bottom: 150px;
+    background-color: rgb(224, 14, 154);
+    color: white;
+    border-radius: 5px;
+    text-align: center;
   }
   
   .btn-close {

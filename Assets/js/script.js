@@ -4,14 +4,14 @@ const openModalBtn = document.querySelector(".btn-open"); //Task
 const closeModalBtn = document.querySelector(".btn-close");//"X"
 const appointmentDate = document.querySelector('#datepicker');//calendar
 const submit = document.querySelector('.submit');
-
+// when you open the Modal the work behind it will be hidden
 const openModal = function () {
     modal.classList.remove("hidden");
     overlay.classList.remove("hidden");
   };
 
   openModalBtn.addEventListener("click", openModal);
-  
+  //when you click the 'X' button it should close the modal
   const closeModal = function () {
     modal.classList.add("hidden");
     overlay.classList.add("hidden");
