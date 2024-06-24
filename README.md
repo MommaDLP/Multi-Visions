@@ -19,7 +19,7 @@ GitHub <br>
 https://github.com/MommaDLP/Multi-Visions
 
 Deploy <br>
-https://mommadlp.github.io/Transformation-Station/
+https://mommadlp.github.io/Multi-Visions/
 
 ## Webpage Views
 <img src="Images\Screenshot 2024-06-24 143302.png" alt="task board"/><br>
@@ -33,4 +33,4 @@ https://mommadlp.github.io/Transformation-Station/
 <li>Xpert Assistant</li>
 
 ## License
-NONE..
+NONE
